@@ -7,7 +7,7 @@
 - **Current Role/Position**:Self Employed
 - **Field of Interest**:Data Analytics
 
-### Part 1: Self-Assessment Reflection
+**Self-Assessment Reflection**
 
 1. **Skills Analysis**:
     
@@ -30,8 +30,8 @@
     - An environment that is equitable, inclusive and encourages diversity and values mental wellbeing.
     - On a profession scale a work environment should foster creativity, provide training and opportunities to
       encourage continuous learning.
-
-### Part 2: Career Exploration Insights
+      
+ **Career Exploration Insights**
 
 1. **Industries and Roles Explored**:
     
@@ -53,7 +53,7 @@
     - Exploring and Integrating with modern and emerging technogies.
     - Keeping up with the rapidly evolving technological developments.
 
-### Part 3: SMART Career Goals
+ **SMART Career Goals**
 
 1. **Short-term Goals** (Next 1-2 years):
     - Become proficient in JavaScript
@@ -66,9 +66,7 @@
     - Become a qualified data analyst.
   
     - My analytical skills align with my goals to work with data visualisation and my good communication
-      skills help with developing a strong online presence and build a professional network.
-
-### Part 4: Action Plan
+      skills help with developing a strong online presence and build a professional ne **Action Plan**
 
 1. **Steps to Achieve Short-term Goals**:
     
@@ -88,7 +86,7 @@
     - Stay up to date with industry trends and level up.
     - Enhance my technical/interview/skills
 
-### Part 5: Reflection on Challenges and Opportunities
+**Reflection on Challenges and Opportunities**
 
 1. **Anticipated Challenges**:
     
