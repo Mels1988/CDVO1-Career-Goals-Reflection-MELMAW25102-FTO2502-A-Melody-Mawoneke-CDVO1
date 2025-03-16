@@ -14,12 +14,12 @@ This "Career Goals Reflection" template is designed to assist you in articulatin
 
 By completing this reflection, you will gain a clearer understanding of your career aspirations and the steps needed to achieve them. This document can serve as a roadmap and a source of motivation as you progress in your professional journey.
 
-### Personal Information
+Personal Information
 
-- **Name:**Melody Mawoneke
-- **Date:**16/03/2025
-- **Current Role/Position:**Self Employed
-- **Field of Interest:**Data Analytics
+- **Name**:Melody Mawoneke
+- **Date**:16/03/2025
+- **Current Role/Position**:Self Employed
+- **Field of Interest**:Data Analytics
 
 ### Part 1: Self-Assessment Reflection
 
@@ -38,7 +38,9 @@ By completing this reflection, you will gain a clearer understanding of your car
     - I am interested in how l can intergrate AI techniques into data analysis and how data can be
       used to inform strategic business decisions and identification of potential risks through data
       analysis.
-   **What values are important to you in a work environment?**
+      
+   **Values that are important to me in a work environment**
+   
     - An environment that is equitable, inclusive and encourages diversity and values mental wellbeing.
     - On a profession scale a work environment should foster creativity, provide training and opportunities to
       encourage continuous learning.
@@ -57,9 +59,10 @@ By completing this reflection, you will gain a clearer understanding of your car
   
 2. **Alignment with Personal Profile**:
     
-    - being a business minded person, data analytics help me with strateging decision-making, market optimization
+    - Being a business minded person, data analytics help me with strateging decision-making, market optimization
       and financial analysis. Web development helps with developing websites that establishes online presence and
       e-commerce.
+      
     **Gaps**
     - Exploring and Integrating with modern and emerging technogies.
     - Keeping up with the rapidly evolving technological developments.
@@ -83,16 +86,17 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - continuous learning
-    - code, code and code some water
-    - master a programming language
-    - financia resources and emotional and technical support will be very paramount.
+    - Continuous learning
+    - Code, code and code some more.
+    - Master a programming language.
+    - Financia resources and emotional and technical support will be very paramount.
+      
 2. **Preparation for Long-term Goals**:
     
     - Master a programming language.
     - Establish strong online presence and professional looking resume.
     - Network and connect
-    - Profeciency and obtain industry recognized certifications.
+    - Become proficient and obtain industry recognized certifications.
       
     - Get certified
     - Stay up to date with industry trends and level up.
@@ -108,23 +112,18 @@ By completing this reflection, you will gain a clearer understanding of your car
   
       **Consider strategies to overcome these challenges**
     - Mantaining a good work life balance to keep motivated.
-    - Overcoming self doubt
+    - Overcoming self doubt.
     - Staying up to date with industry trends and continuos learning to level up.
   
 
 2. **Opportunities for Growth**:
     
-    - Finding a mentor to guide my career aspirations
-    - Join online communities and tech groups
-    - Specialise
+    - Finding a mentor to guide my career aspirations.
+    - Join online communities and tech groups.
+    - Specialise.
     - Attend industry events and actively participate.
     - Emotional wellbeing and mindfullness.
 
-###
-- To complete this submission you will need to use this template and complete Parts 1 to 5.
-- Note this reflection Template is a guide to help prompt your reflections in each section.
-- You will fill in your reflections for each seciton under Parts 1 to 5.
-- Change the name of your forked CDV01_Career_Goals_Reflection_StudentNo_Classcode_Group_Name-Surname_CDV01 repository to reflect your Student Number, ClassCode, Group Name and Name.
-- You will then submit a link to your renamed CDV01 GitHub repo to the CDV01 Project Tab on the LMS.
+
 
 
